@@ -50,9 +50,11 @@ createPlatform(800, 125, 45, 5, "hotpink");
 
     // TODO 3 - Create Collectables
 
-createCollectable("diamond",400,460, 0, 0)
-createCollectable("diamond",850,310, 0, 0)
-createCollectable("diamond",800,85, 0, 0)
+createCollectable("dipsy",400,435, 0, 0)
+createCollectable("dipsy",850,285, 0, 0)
+createCollectable("dipsy",800,65, 0, 0)
+
+// i made my own collectable ;//
     
     // TODO 4 - Create Cannons
 
